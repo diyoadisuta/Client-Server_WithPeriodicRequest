@@ -1,0 +1,2 @@
+Perbedaan yang spesifik dengan pertemuan sebelumnya ialah kalau menggunakan periodic request kita bisa mengirimkan pesan kepada server/tujuan secara berulang-ulang sesuai dengan yang kita inginkan sedangkan pertemuan sebelumnya hanya mengirimkan pesan kepada server/tujuan secara manual
+NB : Harus install module schedule dulu untuk bisa ngerun source code ini dengan menggunakan syntax "pip install schedule"
